@@ -34,6 +34,11 @@ body {
     background-color: gold;
     color: blue;
   }
+/* Change the color of links on hover */
+  .topnav .active:hover {
+    background-color: gold;
+    color: blue;
+  }
   
   /* Add an active class to highlight the current page */
   .topnav a.active {
