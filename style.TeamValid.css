@@ -24,11 +24,15 @@ body {
   }
   
   /* Change the color of links on hover */
-  .topnav .active:hover {
+  .topnav a.active:hover {
     background-color: gold;
     color: red;
   }
-  
+   /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: gold;
+    color: red;
+  }
   /* Add an active class to highlight the current page */
   .topnav a.active {
     background-color: blue;
