@@ -31,7 +31,7 @@ body {
   
   /* Add an active class to highlight the current page */
   .topnav a.active {
-    background-color: gold;
+    background-color: blue;
     color: white;
   }
   
