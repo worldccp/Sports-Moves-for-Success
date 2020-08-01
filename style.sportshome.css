@@ -3,7 +3,10 @@
   font-size: 30px;
   color: white;
 }
-
+h2 {
+  font-size: 40px;
+  color: blue; 
+}
 /* Background of Entire website  */
 body {
     background-color: gold;
